@@ -1,0 +1,4 @@
+setenv aaa hola
+echo "You Win!"
+setenv bbb world
+echo "you"

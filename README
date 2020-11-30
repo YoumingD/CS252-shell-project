@@ -1,0 +1,14 @@
+Features that work:
+Ctrl-C
+History (up/down)
+Arrows
+(ctrl-D): Delete at end
+(ctrl-H): Backspace at end
+Insert in the middle
+(ctrl-A)
+(ctrl-E)
+
+
+Features that do not work:
+(ctrl-D): Delete middle
+(ctrl-H): Backspace middle

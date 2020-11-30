@@ -1,0 +1,1 @@
+setenv aaa hola\necho \"You Win!\"
